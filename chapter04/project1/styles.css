@@ -1,1 +1,13 @@
-/* Add your CSS style definitions to this file */
+
+body {
+  margin-top: 0em;
+  margin-left: 4em;
+  margin-right: 4em;
+  margin-bottom: 0em;
+  font-style: Open Sans;
+}
+h1
+{
+font-size: 2rem;
+font-style: Roboto Slab;
+}
